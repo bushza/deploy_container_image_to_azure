@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-![Azure deployment workflow](https://github.com/bushza/deploy_container_image_to_azure/.github/workflows/azure_deployment.yml/badge.svg?branch=main)
+![Azure deployment workflow](https://github.com/bushza/deploy_container_image_to_azure/acyions/workflows/azure_deployment.yml/badge.svg?branch=main)
 
 # GitHub Actions: Continuous Delivery with Azure
 
